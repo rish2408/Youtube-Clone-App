@@ -22,7 +22,7 @@ Used many api beacuse there is limit to fetch data
 
 ## Deployed Link
 
-- [Mini YouTube App](https://sparkling-melba-6dff47.netlify.app)
+- [Mini YouTube App](https://fabulous-hotteok-fedf4b.netlify.app)
 
 ## Tech Stack
 
