@@ -40,7 +40,7 @@ Used many api beacuse there is limit to fetch data
 ## Website Sneak Peaks
 
 - **Landing Page - Top 20 Trending Videos Section**
-![img1](https://user-images.githubusercontent.com/36689521/189988182-92233896-011e-42b3-87c7-438da98cf4bd.png)
+![189988182-92233896-011e-42b3-87c7-438da98cf4bd](https://user-images.githubusercontent.com/36689521/190347797-6e25aaaa-e8e5-47bf-b903-3a698beff90c.png)
 
 - **Video Search**
 ![img2](https://user-images.githubusercontent.com/36689521/189988237-0e3ba999-3461-4550-a866-cf038b2c3012.png)
